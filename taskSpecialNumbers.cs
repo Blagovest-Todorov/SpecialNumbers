@@ -40,6 +40,7 @@ namespace SpecialNumbers
             }
             Console.WriteLine();
             Console.WriteLine(count);
+            Console.WriteLine("added a change from GitHub! DesktopClinet !");
         }
     }
 }
